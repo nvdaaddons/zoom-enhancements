@@ -70,4 +70,4 @@ brugergrænsefladesproget er indstillet til engelsk i Zoom.
 
 [[!tag dev stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=zoom
+[1]: https://www.nvaccess.org/addonStore/legacy?file=zoomEnhancements
