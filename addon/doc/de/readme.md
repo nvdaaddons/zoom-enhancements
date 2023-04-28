@@ -9,7 +9,7 @@ Nutzer von NVDA, in dem Tastenkombinationen für Benachrichtigungen bei
 verschiedenen Ereignissen zur Verfügung gestellt werden. Der Prozess der
 Fernsteuerung wird dadurch bedienbarer und vieles mehr.
 
-## Tastenkombinationen zur Kontrolle von Ereignis-Benachrichtigungen
+## Tastenkombinationen zur Steuerung von Warnmeldungen in Meetings
 
 * NVDA+Umschalt+A: Wechselt zwischen mehreren Modi der
   Benachrichtigungen. Die folgenden Modi sind verfügbar:
@@ -53,7 +53,7 @@ von Benachrichtigungsarten ein- oder auszuschalten, sofern der Modus
 Beachten Sie, dass in den Zoom-Einstellungen alle Meldungen aktiviert sein
 müssen, damit die Erweiterung richtig funktioniert.
 
-## Tastenkürzel um den Dialog der Erweiterung aufzurufen
+## Tastenkombination für das Öffnen des Dialogfeldes der NVDA-Erweiterung
 
 NVDA+Z öffnet den Dialog der Erweiterung!
 
